@@ -1,0 +1,12 @@
+#board{
+    height: 400px;
+    width: 400px;
+}
+.tile{
+    height: 50px;
+    list-style-type: none;
+    float: left;
+    width: 50px;
+    font-size: 50px;
+    color: red;
+}
